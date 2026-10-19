@@ -1,0 +1,6 @@
+{
+  "name": "CareerTalk - 취업 준비형 실전 회화 언어교류",
+  "description": "취업을 위해 어학을 준비하는 20대를 위한 1:1 직무 면접 및 비즈니스 실전 회화 언어교류 플랫폼 & 린 캔버스 MVP",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
